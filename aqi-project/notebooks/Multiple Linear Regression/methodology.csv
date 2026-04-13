@@ -1,0 +1,8 @@
+Target Category,Season,Sample Weight (wi),Reasoning for Weighting
+Poor,Post-Monsoon,3000,Critical priority to capture biomass burning peaks
+Poor,Winter,2000,High priority due to temperature inversion effects
+Poor,Summer,1000,Moderate priority for high-heat pollution events
+Poor,Monsoon,500,Baseline priority for rare rain-cleansed peaks
+Moderate,Any Season,5,Slight boost to distinguish from Satisfactory levels
+Satisfactory,Any Season,1,Standard weight for majority class data
+Good,Any Season,1,Standard weight for majority class data
