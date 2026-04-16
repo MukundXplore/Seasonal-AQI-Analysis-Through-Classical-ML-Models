@@ -141,7 +141,6 @@ The **Support Vector Machine (SVM)** was selected as the final model because:
 ├── data/              # Dataset and documentation
 ├── notebooks/         # EDA, experiments, visualization
 ├── src/               # Model implementations
-├── results/           # Outputs and plots
 └── README.md
 ```
 
