@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks & IPython
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Output / Log files
+*.log
